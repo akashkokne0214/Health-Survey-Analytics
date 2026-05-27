@@ -1,33 +1,104 @@
-# ✈️Health Survey | Power BI
+# 🏥 Health_Survey_Dashboard | Power BI
 
 ## 🖼️ Dashboard
 <img width="1415" height="792" alt="Screenshot" src="https://github.com/akashkokne0214/Weather-Impact-on-Flight-Operation/blob/main/Weather_Impact_on_Flight_Operation.png"/>
 
 
 ## 📌 Project Overview
-The **Weather Impact on Flight Operations** Dashboard is a Power BI visualization designed to analyze how different weather conditions influence flight performance metrics such as delays, cancellations, and passenger satisfaction.
+The **Health Survey Dashboard** is an AI-powered healthcare analytics solution built in Power BI to monitor patient health conditions, lifestyle risks, hospital performance, and recovery trends through interactive and intelligent visualizations.
 
-It provides airlines, airport operators, and analysts with real-time insights into how adverse weather impacts flight operations, helping improve decision-making, scheduling efficiency, and passenger communication.
+This dashboard combines:
+
+- Advanced healthcare analytics
+- AI-powered conversational reporting
+- Interactive organ-level visualizations
+- Modern UI/UX dashboard design
+
+The project helps healthcare professionals, analysts, and decision-makers gain actionable insights into patient health patterns, disease distribution, treatment performance, and critical care monitoring.
 
 ---
-## 🌦️ Visual Highlights
-1. **Flight Delay Over Time by Weather**
-A line chart comparing delays over time between weather-impacted and non-weather-impacted flights.
-This helps identify seasonal or monthly trends related to adverse weather effects.
+## 🤖 AI & Custom Visual Integration
+1. *chatPowerBI (ChatGPT Visual for Power BI)**
+Integrated conversational AI directly inside Power BI using chatPowerBI, enabling users to ask natural language healthcare questions such as:
 
-2. **Average Flight Satisfaction by Weather Condition**
-A bar chart comparing passenger satisfaction levels between flights affected and unaffected by weather.
+- “Which organ has the highest critical cases?”
+- “Show recovery trend by month.”
+- “Compare treatment cost by hospital.”
+- “What lifestyle factors contribute most to obesity?”
 
-3. **Cancellations in Bad Weather**
-A donut chart representing the proportion of flights cancelled due to weather vs those that operated normally.
+## Key Features:##
+- GPT-4o Integration
+- Claude 3.5 Sonnet Support
+- Smartest & Cost-effective AI Modes
+- Bring Your Own LLM (BYOLLM)
+- Token Consumption Management
+- Power BI Embedded Support
+- AI-powered Healthcare Insights
 
-4. **No Show Count by Weather & Travel Purpose**
-A clustered bar chart displaying how different travel purposes (Business, Family, Leisure, Emergency) are affected by weather-related disruptions.
+# Synoptic Designer + Synoptic Panel by OKVIZ
+Used to create interactive SVG-based healthcare visuals for organ-wise analytics and disease mapping..
+**Capabilities:**
+Interactive Organ Navigation
+Organ-wise Patient Analysis
+Dynamic SVG Mapping
+Drill-through Storytelling Experience
+
+**📊 Dashboard Pages**
+**1. Executive Overview**
+High-level healthcare KPIs and monitoring:
+- Total Patients
+- Recovery Rate
+- Critical Patients
+- Average BMI
+- Oxygen Monitoring
+- Insurance Coverage
+
+**2. Organ-wise Analytics**
+Interactive organ-level disease analysis:
+- Heart Analysis
+- Lung Disease Insights
+- Brain-related Cases
+- Kidney Monitoring
+- Organ-wise Critical Cases
+
+**3. Patient Demographics Analysis**
+Demographic segmentation and patient distribution:
+- Age Group Analysis
+- Gender Distribution
+- State-wise Patients
+- BMI Categories
+
+**4. Lifestyle & Risk Analytics**
+Lifestyle behavior analysis impacting health:
+- Smoking Analysis
+- Alcohol Consumption
+- Exercise Frequency vs BMI
+- Diet Type Impact
+- Obesity Risk Analysis
+
+**5. Hospital & Treatment Insights**
+Operational healthcare analytics:
+- Treatment Cost Analysis
+- Hospital-wise Patients
+- Insurance Coverage
+- Admission Trends
+- Treatment Performance
+
+**6. Recovery & Critical Monitoring**
+Patient recovery and critical care monitoring:
+- Recovery Funnel
+- Oxygen Level Monitoring
+- Cholesterol vs Sugar Risk Matrix
+- Critical Patient Tracking
+
+**🌟 Visual Highlights**
+**🫀 Organ-wise Interactive Analytics**
+Interactive healthcare visuals using Synoptic Panel for body-part level analysis and disease storytelling.
 
 ---
 
 ## 📑 Dataset used
-- <a href="https://github.com/akashkokne0214/Weather-Impact-on-Flight-Operation/blob/main/Flights_Dataset.csv">Dataset</a>
+- <a href="https://github.com/akashkokne0214/Health-Survey-Dashboard/blob/main/Health_Survey_Dataset.csv">Dataset</a>
 ---
 
 ## Dashboard Link
@@ -35,18 +106,24 @@ A clustered bar chart displaying how different travel purposes (Business, Family
 ---
 
 ## 🧭 Filters & Segmentation
-Interactive buttons at the top of the dashboard allow users to filter by Travel Class:
-- Business
-- Economy
-- First
-- Premium Economy
-Each segment dynamically updates visuals to reflect class-specific trends and weather impact on customer experience.
+Interactive slicers included:
+- Gender
+- Age Group
+- Disease
+- Hospital
+- State
+- BMI Category
+- Recovery Status
+- Insurance Coverage
+All visuals dynamically update based on user selections for better analytical exploration.
 
 ## 🧠 Insights Gained
-- Weather disruptions significantly affect on-time performance and passenger reliability.
-- Business travelers are more resilient to weather-related no-shows compared to leisure travelers.
-- Cancellation rates spike during severe weather months.
-- Despite delays, satisfaction levels remain stable when communication and support are proactive.
+- Lifestyle habits strongly influence BMI and recovery rates.
+- Critical oxygen levels are highly associated with chronic diseases.
+- Certain hospitals handle significantly higher critical patient loads.
+- Exercise frequency positively impacts patient health indicators.
+- Organ-wise disease analysis improves healthcare monitoring efficiency.
+- Insurance coverage impacts treatment accessibility and recovery outcomes.
 
 ---
 
@@ -56,11 +133,32 @@ Each segment dynamically updates visuals to reflect class-specific trends and we
 | **Power BI** | Data visualization & dashboard design |
 | **DAX** | Custom KPIs, calculations, and metrics |
 | **SQL** *(optional)* | Data extraction & transformation |
-| **Data Modeling** | Star schema & flat table integration |
+| **chatPowerBI** | AI conversational analytics |
+| **Synoptic Panel** | Interactive SVG organ visuals |
 
 ---
 
 ## 📂 Project Structure
+✅ Interactive Dashboard
+✅ AI-Powered Analytics
+✅ Conversational Reporting
+✅ Advanced Healthcare KPIs
+✅ Modern UI/UX Design
+✅ Organ-wise SVG Mapping
+✅ Dynamic Drill-through
+✅ Responsive Visualizations
+✅ Executive Storytelling Dashboard
+
+## 🚀 Future Enhancements
+- Real-time healthcare monitoring
+- Predictive healthcare analytics
+- AI-driven anomaly detection
+- Azure OpenAI integration
+- Automated health recommendations
+
+## 🔗 Custom Visuals Used
+- chatPowerBI https://chatpowerbi.ai/
+- Synoptic Designer https://synoptic.design/
 
 ## ☎️ Contact
 
