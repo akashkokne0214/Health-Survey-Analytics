@@ -132,6 +132,7 @@ All visuals dynamically update based on user selections for better analytical ex
 |---------------|------------|
 | **Power BI** | Data visualization & dashboard design |
 | **DAX** | Custom KPIs, calculations, and metrics |
+|**Python** | Custom Visuals, Script |
 | **SQL** *(optional)* | Data extraction & transformation |
 | **chatPowerBI** | AI conversational analytics |
 | **Synoptic Panel** | Interactive SVG organ visuals |
