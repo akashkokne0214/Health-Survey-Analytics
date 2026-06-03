@@ -1,7 +1,7 @@
 # 🏥 Health_Survey_Dashboard | Power BI
 
 ## 🖼️ Dashboard
-<img width="1415" height="792" alt="Screenshot" src="https://github.com/akashkokne0214/Weather-Impact-on-Flight-Operation/blob/main/Weather_Impact_on_Flight_Operation.png"/>
+<img width="1415" height="792" alt="Screenshot" src="https://github.com/akashkokne0214/Health-Survey-Analytics/blob/main/Screenshot%202026-06-03%20064759.png"/>
 
 
 ## 📌 Project Overview
