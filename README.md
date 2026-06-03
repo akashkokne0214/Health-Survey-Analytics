@@ -1,4 +1,4 @@
-# 🏥 Health_Survey_Dashboard | Power BI
+# 🏥 Health_Survey_Analytics | Power BI
 
 ## 🖼️ Dashboard
 <img width="1415" height="792" alt="Screenshot" src="https://github.com/akashkokne0214/Health-Survey-Analytics/blob/main/Screenshot%202026-06-03%20064759.png"/>
