@@ -26,7 +26,7 @@ Integrated conversational AI directly inside Power BI using chatPowerBI, enablin
 - “Compare treatment cost by hospital.”
 - “What lifestyle factors contribute most to obesity?”
 
-## Key Features:##
+## Key Features:
 - GPT-4o Integration
 - Claude 3.5 Sonnet Support
 - Smartest & Cost-effective AI Modes
@@ -102,7 +102,7 @@ Interactive healthcare visuals using Synoptic Panel for body-part level analysis
 ---
 
 ## Dashboard Link
-- <a href="https://mavenshowcase.com/project/53286">View Dashboard</a>
+- <a href="https://mavenshowcase.com/project/56586">View Dashboard</a>
 ---
 
 ## 🧭 Filters & Segmentation
